@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myTestTool", "myTestTool\myTestTool.csproj", "{1171B74B-7BFA-4D82-AF10-E00497AD2EE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaliBurnTut", "CaliBurnTut\CaliBurnTut.csproj", "{1171B74B-7BFA-4D82-AF10-E00497AD2EE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
